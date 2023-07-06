@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julienbrs)
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonrin0213)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -42,7 +41,7 @@
 A decentralized application (dapp) marketplace built on the Goerli testnet using the Ethereum blockchain. The marketplace allows users to list, buy and sell Non-Fungible Tokens (NFTs). The marketplace also includes a feature to mint a new NFT from the "Ethereal" collection for 0.01ETH, to test the marketplace functionality.
 
 Test the dApp here: [NFT Marketplace](https://frontend-marketplace-nfts.vercel.app/)
-Check the frontend repo here: [Frontend repositorie](https://github.com/julienbrs/frontend-marketplace-nfts)
+Check the frontend repo here: [Frontend repositorie](https://github.com/jonrin0213/frontend-marketplace-nfts)
 <br />
 <p align="center">
   <img src="NFTMarketplace.png" alt="Dapp Marketplace Screenshot"/>
@@ -64,7 +63,7 @@ To get a local copy up and running follow these simple example steps.
 Clone the repo
 
 ```sh
-git clone https://github.com/julienbrs/nft-marketplace.git
+git clone https://github.com/jonrin0213/nft-marketplace.git
 ```
 
 Install package dependencies using yarn
@@ -100,7 +99,7 @@ Please note that this marketplace is built on the Goerli testnet and any transac
 
 Bourseau Julien - _2nd year student at Ensimag, 2022_ - julien.bourseau@gmail.com
 
-Project Link: [https://github.com/julienbrs/nft-marketplace](https://github.com/julienbrs/nft-marketplace)
+Project Link: [https://github.com/jonrin0213/nft-marketplace-backend](https://github.com/jonrin0213/nft-marketplace-backend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
