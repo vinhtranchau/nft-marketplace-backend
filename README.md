@@ -96,9 +96,6 @@ Please note that this marketplace is built on the Goerli testnet and any transac
 <!-- CONTACT -->
 
 ## Contact
-
-Bourseau Julien - _2nd year student at Ensimag, 2022_ - julien.bourseau@gmail.com
-
 Project Link: [https://github.com/jonrin0213/nft-marketplace-backend](https://github.com/jonrin0213/nft-marketplace-backend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
